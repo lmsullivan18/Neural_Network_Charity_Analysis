@@ -15,3 +15,4 @@ The purpose of this analysis was to create a binary classifier that is capable o
 - To try to increase model performance, I increased the number of neurons, added a layer, and removed some variables that are neither targets nor features.
 
 ## Summary
+I was not able to get the model to improve beyond 72% accuracy.
