@@ -10,8 +10,8 @@ The purpose of this analysis was to create a binary classifier that is capable o
 - The variables that are neither targets nor features, and should be removed from the input data, are "SPECIAL_CONSIDERATIONS".
 
 ### Compiling, Training and Evaluating the Model
-- For my neural network model I selectioned X neurons, X layers and X activation functions.
+- For my neural network model I selectioned 21 neurons, 3 layers and X activation functions.
 - I was not able to achieve the target model performance.
-- To try to increase model performance, I ..
+- To try to increase model performance, I increased the number of neurons, added a layer, and removed some variables that are neither targets nor features.
 
 ## Summary
